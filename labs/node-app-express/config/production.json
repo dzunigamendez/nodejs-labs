@@ -1,0 +1,10 @@
+{
+    "auth": {
+        "tokenExpiresIn": "4h"
+    },
+    "database": {
+        "options": {
+            "poolSize": 50
+        }
+    }
+}

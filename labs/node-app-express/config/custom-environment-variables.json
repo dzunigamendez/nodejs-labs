@@ -1,0 +1,12 @@
+{
+    "server": {
+        "host": "HOST",
+        "port": "PORT"
+    },
+    "auth": {
+        "secretKey": "SECRET_KEY"
+    },
+    "database": {
+        "uri": "MONGODB_URI"
+    }
+}
